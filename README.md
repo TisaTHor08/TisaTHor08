@@ -38,9 +38,7 @@
 ---
 
 ### 📈 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TisaTHor08&show_icons=true&theme=dracula" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TisaTHor08&theme=dracula" />
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TisaTHor08&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TisaTHor08&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TisaTHor08&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TisaTHor08&theme=aura_dark&utcOffset=8)
