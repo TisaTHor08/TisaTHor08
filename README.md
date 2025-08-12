@@ -42,4 +42,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TisaTHor08&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TisaTHor08&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TisaTHor08&theme=aura_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TisaTHor08&theme=aura_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TisaTHor08&theme=aura_dark&utcOffset=1)
+
