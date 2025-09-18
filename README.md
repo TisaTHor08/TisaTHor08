@@ -1,19 +1,15 @@
 <h1 align="center">Salut 👋, moi c'est Lyo</h1>
 <h3 align="center">Développeur passionné par l'automatisation, la productivité et les technologies polyvalentes</h3>
 
-- 🔭 Je travaille actuellement sur **Agent Personnel de Révision**, une application Pomodoro intelligente intégrée à Home Assistant et Notion.
+- 🔭 Je travaille actuellement sur **Agent Pomodoro**, une application Pomodoro intelligente intégrée à Home Assistant et Notion.
 
 - 🌱 J’apprends constamment de nouvelles technologies et j’améliore mes compétences en **C#, Docker, automatisation avec N8N**, et plus encore.
-
-- 👯 Je cherche à collaborer sur des projets **open-source liés à l'automatisation, l'éducation ou la productivité**.
 
 - 💬 N'hésite pas à me poser des questions sur :
   **Python, Batch, C, C#, Docker, Notion, HTML/CSS/JS, GitHub, Linux...**
 
 - 📫 Me contacter : **moussu.lyo@gmail.com**  
   💼 LinkedIn : [lyo-moussu-5b1019303](https://www.linkedin.com/in/lyo-moussu-5b1019303)
-
-- ⚡ Fun fact : J’adore faire plus en travaillant moins – vive l’automatisation 😄
 
 ---
 
