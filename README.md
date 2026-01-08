@@ -23,6 +23,8 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![COBOL](https://img.shields.io/badge/-COBOL-004B87?style=flat&logo=cobol&logoColor=white)
+
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![n8n](https://img.shields.io/badge/-n8n-FE602F?style=flat&logo=n8n&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
