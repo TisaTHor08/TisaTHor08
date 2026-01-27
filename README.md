@@ -36,7 +36,7 @@
 ---
 
 ### 📈 Statistiques GitHub
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TisaTHor08&layout=donut&theme=aura_dark&hide=TeX,Makefile,Dockerfile,Batchfile,PowerShell,YAML,JSON)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TisaTHor08&layout=donut&theme=aura_dark&hide=TeX,Makefile,Dockerfile,Batchfile,PowerShell,YAML,JSON)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TisaTHor08&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TisaTHor08&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TisaTHor08&theme=aura_dark)
